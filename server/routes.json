@@ -1,0 +1,18 @@
+{
+   /* "/api/ActionLogs": "/ActionLogs",
+    "/api/ActionLogs/:id": "/ActionLogs/:id"
+    ,"/api/Concours": "/Concours",
+    "/api/Concours/checkIfExist/:id":"/Concours/:id",
+    "/api/Oms/getFilterdData/:id": "/Concours/:id",
+
+    "/api/Stats/home": "/homeStats",
+    "/api/Stats/gender": "/genderStas",
+    "/api/Stats/gouv": "/gouvStats",
+    "/api/Stats/mil": "/milStats",
+    "/api/Stats/agelevel": "/agelevelStats",
+    "/api/Stats/section": "/sectionStats",
+    "/api/Stats/concourStats": "/concourStats",
+    "/api/Oms/upload":"/Omdemo"*/
+
+
+}
